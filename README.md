@@ -60,15 +60,6 @@ Logistic Regression uses the **Sigmoid function**:
 
 It maps any number to a value between **0 and 1**, representing the **probability** of class 1.
 
----
-
-## Interview Prep:
-
-- Logistic Regression vs Linear Regression
-- Confusion Matrix, Precision, Recall, F1
-- ROC-AUC meaning
-- Sigmoid curve role
-- Threshold tuning
 
 ---
 
